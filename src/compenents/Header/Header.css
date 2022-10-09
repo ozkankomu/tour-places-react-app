@@ -1,0 +1,19 @@
+.HeaderDiv {
+  text-align: center;
+  /* margin: 1rem; */
+  /* position: sticky;
+  top: 210px;
+  z-index: 1; */
+  background-image: url(https://idrisstravel.com/frontOffice/images/travel.jpg);
+  height: 80px;
+  box-shadow: -15px -15px 20px black, 15px 15px 20px black;
+  margin: 10px;
+  border-radius: 20px 0px 20px 0px;
+}
+
+h1 {
+  color: darkred;
+  font-size: 3rem;
+  text-shadow: 3px 3px 5px black;
+  border-radius: 20px 0px 25px 0px;
+}

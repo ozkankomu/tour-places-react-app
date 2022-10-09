@@ -1,16 +1,16 @@
-import React from "react";
-import Header from "./components/Header";
-
 import "./App.css";
-import Card from "./components/Card";
+import Cards from "./compenents/Cards/Cards";
+import Header from "./compenents/Header/Header";
+import Navbar from "./compenents/Navbar/Navbar";
 
-const App = () => {
+function App() {
   return (
-    <div>
+    <div className="App">
+      <Navbar />
       <Header />
-      <Card />
+      <Cards />
     </div>
   );
-};
+}
 
 export default App;

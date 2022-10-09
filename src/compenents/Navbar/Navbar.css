@@ -1,0 +1,42 @@
+.navbarr {
+  background-image: url(https://www.travelstoreturkey.com/wp-content/uploads/2020/08/cropped-Cappadocia-Tour-scaled-1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  min-height: 200px;
+  box-shadow: inset 5px 5px 10px rgb(0, 0, 0), 10px 10px 20px black;
+  border-radius: 20px;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.navimg {
+  padding: 5px;
+  margin: 1rem;
+  height: 100%;
+  box-shadow: 3px 3px 3px white;
+}
+
+.navbar {
+  padding: 2rem;
+  font-size: 2rem;
+  text-align: right;
+}
+
+.navbar-nav a {
+  color: rgb(89, 4, 4);
+  transition: all ease-in-out 0.3s;
+  margin-right: 1.5rem;
+  font-weight: bold;
+  text-shadow: 2px 2px 3px rgb(255, 255, 255);
+  width: 100px;
+}
+
+.navbar-nav a:hover {
+  color: darkred;
+  transform: scale(1.2);
+}
