@@ -53,7 +53,7 @@ SOLUTION
 
 ## Screenshot
 <p align="left">
-<a href="https://ozkankomu.github.io/tour-places-react-app/"><img src="screen.png" alt="screenshot" target=_blanked></a>
+<a href="https://ozkankomu.github.io/tour-places-react-app/"><img src="screen.gif" alt="screenshot" target=_blanked></a>
 </p>
 
 
