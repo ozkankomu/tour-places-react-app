@@ -8,11 +8,12 @@
   align-items: center;
   gap: 1rem;
   flex-wrap: wrap;
-  background-image: url(https://cdn.dekopasaj.com/products/3/d95f0e53-6acb-4484-8261-ade2a7349b49.JPG);
+  background-image: url(https://get.wallhere.com/photo/nature-landscape-1429597.jpg);
+  /* background-color: rgb(213, 159, 141); */
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
 }
 .container {
   background-color: rgb(3, 17, 55);
