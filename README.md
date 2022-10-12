@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.linkedin.com/in/ozkankomu/" target="_blank"><img src="avatar.png" alt="screenshot" target=_blanked></a>
+<a href="https://www.linkedin.com/in/ozkankomu/" target="_blank"><img src="avatar.png" alt="screenshot" target=_"blanked"></a>
 </p>
 
 
