@@ -90,6 +90,6 @@ SOLUTION
 
 ## Author
 
-- Author - [Ozkan]
+- Author - [_Ozkan_]
 
 <center> &#8987; Happy Coding...  &#9997; </center>
