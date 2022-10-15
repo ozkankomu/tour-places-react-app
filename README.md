@@ -1,5 +1,5 @@
-<p align="center">
-<a href="https://www.linkedin.com/in/ozkankomu/" target="_blank"><img src="avatar.png" alt="screenshot" target=_blanked></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/ozkankomu/" target="_blank"><img src="photo1.png" alt="screenshot" width=680px height=350px></a>
 </p>
 
 
@@ -60,7 +60,7 @@ SOLUTION
 
 ## Links
 <hr>
-<b>Check The Live Website ➡️</b> <a href="https://ozkankomu.github.io/tour-places-react-app/">Live Website</a>
+<b>Check The Live Website ➡️</b> <a href="https://ozkankomu.github.io/tour-places-react-app/" target="_blank">Live Website</a>
 <hr>
 
 ### Built with
@@ -90,6 +90,6 @@ SOLUTION
 
 ## Author
 
-- Author - [Ozkan]
+- Author - [_Ozkan_]
 
 <center> &#8987; Happy Coding...  &#9997; </center>
